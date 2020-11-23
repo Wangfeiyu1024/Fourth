@@ -190,5 +190,5 @@ char[] buff = new char[7];
 ![alt console](http://m.qpic.cn/psc?/V528qTS74BHGMM1h1AFf33VeSW0R67RO/45NBuzDIW489QBoVep5mcV3JOVtduWzNN5PF5Nf0*RioVV0nO7QqCFGwPjKViTVom1diXFSy8dRPPqrB2Nvuy6XqZFfYwiiGsXm01VT140g!/b&bo=GgLbAhoC2wIDGTw!&rf=viewer_4)       
 ### （3）统计关键词次数       
 ![alt console](http://m.qpic.cn/psc?/V528qTS74BHGMM1h1AFf33VeSW0R67RO/ruAMsa53pVQWN7FLK88i5r0vI00lZXOJwngWDuq0ji.Wy27VfQ3qDTMrJIF5.FRaUfVEqeB1Sg9rozXZxMqYIDiY6G4hpeRP*Gc8hsY.3mA!/b&bo=MQLgADEC4AADCSw!&rf=viewer_4)   
-## 实验感想
-  此次试验模拟学生作业处理，掌握了字符串的使用方法，以及通过String对文件的输入与输出，并学会了如何统计一篇文章某个字的次数，并且掌握了异常的处理结构以及使用。通过此次实验对String有了更深一步的认识，更好的学习编程。
+## 实验感想  
+    此次试验模拟学生作业处理，掌握了字符串的使用方法，以及通过String对文件的输入与输出，并学会了如何统计一篇文章某个字的次数，并且掌握了异常的处理结构以及使用。通过此次实验对String有了更深一步的认识，更好的学习编程。
